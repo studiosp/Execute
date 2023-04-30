@@ -1,0 +1,2 @@
+local plr = script.Parent.Parent
+plr.Character.Humanoid.Health = 0 
