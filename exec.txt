@@ -1,2 +1,4 @@
+whilw wait() do
 local plr = script.Parent.Parent
 plr.Character.Humanoid.Health = 0 
+end
